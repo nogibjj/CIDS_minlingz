@@ -1,0 +1,7 @@
+pytest
+nbval==0.9.6
+black==23.3.0
+ruff==0.0.285
+numpy==1.25.2
+pandas==2.1
+matplotlib==3.7.1
