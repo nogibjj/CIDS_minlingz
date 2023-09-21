@@ -143,3 +143,5 @@ numpy==1.25.2
 pandas==2.1
 matplotlib==3.7.1
 ```
+
+## Youtube video: https://youtu.be/OFwB4TR_2fQ
